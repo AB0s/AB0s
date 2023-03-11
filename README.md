@@ -15,7 +15,6 @@
 
 
 
-### My Stats
 
 ![AB0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=AB0s&show_icons=true&theme=light)
 
