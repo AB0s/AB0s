@@ -17,9 +17,9 @@
 
 ### My Stats
 
-![AB0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=AB0s&show_icons=true&theme=dark)
+![AB0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=AB0s&show_icons=true&theme=light)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB0s&layout=compact&theme=dark)](https://github.com/AB0s/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AB0s&layout=compact&theme=light)](https://github.com/AB0s/github-readme-stats)
 
 
 
