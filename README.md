@@ -1,4 +1,4 @@
-![Banner](https://c4.wallpaperflare.com/wallpaper/663/420/862/car-purple-retrowave-landscape-wallpaper-preview.jpg)
+<img alt="" src="https://media0.giphy.com/media/J3BlD4W2r1mcK1vMWW/giphy.gif?cid=6c09b952e8q2pc2slqe2dt8jn88xst0udrgpe9l4nb9zrcu4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width='100%' height='400' align="left"/>
 
 <img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!</h2>
 
