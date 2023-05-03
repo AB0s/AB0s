@@ -1,4 +1,4 @@
-![Banner](https://github.com/AB0s/AB0s/blob/main/assets/1186042.png)
+<img alt="" src="https://github.com/AB0s/AB0s/blob/main/assets/1186042.png" width='100%' align="left"/>
 
 <img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!</h2>
 
