@@ -4,7 +4,7 @@
 <img alt="Night Coding" src="https://github.com/AB0s/AB0s/blob/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!</h2>
 
 
-<img alt="Night Coding" src="https://64.media.tumblr.com/82a98d32595467026ee9bf284422e396/7dd81fcb68cfac73-f7/s400x600/d0c9698f2acf2c8baca6c511fdc87e133207e0cc.gifv" align="right"/>
+<img alt="Night Coding" src="https://github.com/AB0s/AB0s/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
