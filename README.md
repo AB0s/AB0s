@@ -1,9 +1,3 @@
-<img alt="" src="https://github.com/AB0s/AB0s/blob/main/assets/4910984.gif" width='100%' height='400' align="left"/>
-
-
-<img alt="Night Coding" src="https://github.com/AB0s/AB0s/blob/main/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!</h2>
-
-
 <img alt="Night Coding" src="https://github.com/AB0s/AB0s/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
